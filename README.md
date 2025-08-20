@@ -92,7 +92,7 @@ Type `help` in shell mode for a list of commands and usage examples.
 This repo is public and does not contain your personal tasks or notes. Use it as a template or starting point for your own daily productivity CLI.
 
 ## Requirements
-- Go 1.18+
+- Go 1.23+ (if you want to build from source)
 - [nano](https://www.nano-editor.org/) (for note editing, or change the editor in code)
 
 ## License
