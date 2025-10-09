@@ -6,6 +6,26 @@
 
 A simple, interactive CLI tool written in Go to help you track your daily tasks, add quick notes, and review your productivity.
 
+## Installation
+
+Download the latest binary for your platform from the [Releases](https://github.com/maximedelvaux/daily-cli/releases) page:
+
+- **Windows**: `daily-task.exe`
+- **Linux (amd64)**: `daily-task-linux`
+- **macOS (Intel)**: `daily-task-mac`
+- **macOS (Apple Silicon)**: `daily-task-mac-arm64`
+
+### Linux/macOS Setup
+After downloading, make the binary executable:
+```bash
+chmod +x daily-task-linux  # or daily-task-mac / daily-task-mac-arm64
+```
+
+Optionally, move it to a directory in your PATH:
+```bash
+sudo mv daily-task-linux /usr/local/bin/daily-task
+```
+
 ## Features
 - Add, list, edit, and delete daily tasks
 - Track estimated and actual time for each task

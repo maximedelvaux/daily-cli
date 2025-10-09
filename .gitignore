@@ -1,2 +1,8 @@
 tasks.yaml
 notes.yaml
+
+# Binaries
+daily-task.exe
+daily-task-linux
+daily-task-mac
+daily-task-mac-arm64
